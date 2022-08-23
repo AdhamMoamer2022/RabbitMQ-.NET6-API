@@ -1,7 +1,7 @@
 # RabbitMQ-.NET6-API
 Working with RabbitMQ Message Queue and its implementation using .NET Core 6 API as Message Producer and Console Application as a Message Consumer.
 
-#regarding Docker and RabbiMQ image you may follow the bellow steps:
+# regarding Docker and RabbiMQ image you may follow the bellow steps:
 
 1-open cmd
 2-docker pull rabbitmq:3-management
